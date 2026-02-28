@@ -37,5 +37,5 @@
     <ul style="list-style: none; padding: 0;">
       <li><b>컴퓨터 활용능력 1급</b></li>
       <li><b>GTQ, GTQi 1급</b></li>
-      <li><b>전산회계 1급</b></li>
+      <li><b>전산회계 1급, 전산세무 2급</b></li>
     </ul>

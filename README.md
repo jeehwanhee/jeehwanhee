@@ -1,6 +1,5 @@
 <h1 align="center">Jee Hwanhee</h1>
-- 2nd year CS student at Konkuk Univ.<br>
-- Currently learning **React Native**, **Computer Vision**
+
 
 <br>
 

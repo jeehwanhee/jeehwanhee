@@ -6,7 +6,7 @@
 
 **Connect with me:**
 <br>
-<a href="https://instagram.com/jeehh0331" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a> <a href="https://play.google.com/store/apps/dev?id=4854447003749021791&hl=ko" target="blank"><img src="https://cdn.simpleicons.org/googleplay/4285F4" alt="googleplay" height="40" width="40" /></a> <a href="https://kaggle.com/hwaneee" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="40" width="40" /></a>
+<a href="https://instagram.com/jeehh0331" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a><a href="https://play.google.com/store/apps/dev?id=4854447003749021791&hl=ko" target="blank"><img src="https://cdn.simpleicons.org/googleplay/4285F4" alt="googleplay" height="40" width="40" /></a><a href="https://kaggle.com/hwaneee" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="40" width="40" /></a>
 
 <br><br>
 

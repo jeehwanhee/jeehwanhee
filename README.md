@@ -5,9 +5,9 @@
 <img align="right" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=nansatan1" alt="Solved.ac Profile" width="350" />
 
 <h3>Connect with me:</h3>
-<a href="https://instagram.com/jeehh0331"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="30" /></a>
-<a href="https://play.google.com/store/apps/dev?id=4854447003749021791&hl=ko"><img align="left" src="https://cdn.simpleicons.org/googleplay/4285F4" alt="googleplay" height="40" width="30" /></a>
-<a href="https://kaggle.com/hwaneee"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="40" width="30" /></a>
+<a href="https://instagram.com/jeehh0331"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" /></a>
+<a href="https://play.google.com/store/apps/dev?id=4854447003749021791&hl=ko"><img align="left" src="https://cdn.simpleicons.org/googleplay/4285F4" alt="googleplay" height="40" width="40" /></a>
+<a href="https://kaggle.com/hwaneee"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="40" width="40" /></a>
 
 <br clear="left"><br>
 
